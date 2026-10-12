@@ -17,16 +17,7 @@
   </a>
 </p>
 
-<!-- Profile views and social links -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnushkaMR&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="GitHub profile views" />
-  <a href="https://github.com/AnushkaMR?tab=followers">
-    <img src="https://img.shields.io/github/followers/AnushkaMR?label=Followers&style=for-the-badge&color=161B22" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/AnushkaMR">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
+
 
 ## 👋 About Me
 
@@ -43,32 +34,6 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode&perline=9" alt="Technologies and tools" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnushkaMR&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Anushka's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaMR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=AnushkaMR&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaMR&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
-</p>
-
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnushkaMR/AnushkaMR/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnushkaMR/AnushkaMR/output/github-snake.svg" />
-    <img alt="Animated snake moving through my GitHub contribution graph" src="https://raw.githubusercontent.com/AnushkaMR/AnushkaMR/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
 
 <p align="center">
   <i>Thanks for visiting! Feel free to explore my repositories and connect with me.</i>
