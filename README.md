@@ -35,9 +35,6 @@
 </p>
 
 
-<p align="center">
-  <i>Thanks for visiting! Feel free to explore my repositories and connect with me.</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=100&section=footer" alt="Decorative footer wave" width="100%" />
